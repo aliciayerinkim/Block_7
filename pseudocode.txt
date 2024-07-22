@@ -1,0 +1,14 @@
+1. Initialize Variables for Combination:
+
+Calculate the first number using subtraction.
+Calculate the second number using multiplication.
+Calculate the third number using addition.
+
+2. Combine the Results:
+
+Store each result in a separate variable.
+Create a string formatted into what we want.
+
+3. Display the Combination:
+
+Use a alert to show the secret combination message to the user.
